@@ -4,10 +4,10 @@ _site
 .jekyll-metadata
 vendor
 
-_posts/2015_*
-_posts/2016_*
-_posts/2017_*
-_posts/2018_*
+_posts/2015-*
+_posts/2016-*
+_posts/2017-*
+_posts/2018-*
 
 
 
