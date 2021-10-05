@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+_posts/2015_*
+_posts/2016_*
+_posts/2017_*
+_posts/2018_*
+
+
+
