@@ -26,6 +26,8 @@ It contains a list of various documents
 How to extract features from pointcloud ...
 
 ### Fast Point Feature Histograms (FPFH)
+* pcl::FPFHSignature33 is the default point type
+* 33-byte = 11 bins * 3 values ($\alpha$, $\phi$, $\theta$)
 * https://pcl.readthedocs.io/projects/tutorials/en/latest/fpfh_estimation.html
 * https://pcl.readthedocs.io/projects/tutorials/en/latest/pfh_estimation.html#pfh-estimation
 * https://adioshun.gitbooks.io/pcl/content/Tutorial/Feature/
@@ -67,7 +69,8 @@ How to extract features from pointcloud ...
 * Semidefinite program is a subfield of a convex optimization of linear objective function. [Conic_optimization](https://en.wikipedia.org/wiki/Conic_optimization)
 * TEASER++ uses graduated non-convexity [Graduated_non-convexity](https://arxiv.org/pdf/1909.08605.pdf)
 
-
+* Truncated Least Sqaures Registration Formula
+<img src="/assets/images/20211005/TLS.png" wdith="10%" height="10%">
 
 ### Go-ICP
 * Latest version : Jan. 2015
