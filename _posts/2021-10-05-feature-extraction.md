@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Recent Pages
-subheading: Some pages, links, posts, codes to study
+title: Feature Extraction
+subheading: How to extract features from pointcloud ...
 author: Seungjae
 categories: Research
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
-  volume: 0.8
-  start_at: 8.5
+  #video: https://vjs.zencdn.net/v/oceans.mp4
+  #loop: true
+  #volume: 0.1
+  #start_at: 8.5
   image: https://bit.ly/3xTmdUP
   opacity: 0.618
   background: "#000"
@@ -20,14 +20,11 @@ tags: feature extraction pointcloud registration
 sidebar: []
 ---
 
-It contains a list of various documents
-
-## Feature Extraction
-How to extract features from pointcloud ...
+It contains a list of various documents about feature extraction.  
 
 ### Fast Point Feature Histograms (FPFH)
 * pcl::FPFHSignature33 is the default point type
-* 33-byte = 11 bins * 3 values ($\alpha$, $\phi$, $\theta$)
+* 33-byte = 11 bins (11 sub-divisions for each value) * 3 values ( $\alpha$, $\phi$, $\theta$ )  
 * https://pcl.readthedocs.io/projects/tutorials/en/latest/fpfh_estimation.html
 * https://pcl.readthedocs.io/projects/tutorials/en/latest/pfh_estimation.html#pfh-estimation
 * https://adioshun.gitbooks.io/pcl/content/Tutorial/Feature/
