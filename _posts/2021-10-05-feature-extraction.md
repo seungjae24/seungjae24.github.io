@@ -67,7 +67,7 @@ It contains a list of various documents about feature extraction.
 * TEASER++ uses graduated non-convexity [Graduated_non-convexity](https://arxiv.org/pdf/1909.08605.pdf)
 
 * Truncated Least Sqaures Registration Formula
-<img src="/assets/images/20211005/TLS.png" wdith="10%" height="10%">
+<img src="/assets/images/20211005/TLS.png">
 
 ### Go-ICP
 * Latest version : Jan. 2015
