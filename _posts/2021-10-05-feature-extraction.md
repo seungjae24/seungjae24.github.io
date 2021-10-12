@@ -36,7 +36,7 @@ It contains a list of various documents about feature extraction.
 * [Github (https://github.com/MIT-SPARK/TEASER-plusplus)](https://github.com/MIT-SPARK/TEASER-plusplus)
 * [Youtube (https://www.youtube.com/watch?v=xib1RSUoeeQ)](https://www.youtube.com/watch?v=xib1RSUoeeQ)
 
-|:Insight:|:Overview:|
+|: Insight :|: Overview :|
 |:------------------:|
 |<img src="/assets/images/20211005/TEASER_insight.png" width="400" height="250">|<img src="/assets/images/20211005/TEASER_overview.png" width="400" height="250">|
 
