@@ -37,7 +37,7 @@ It contains a list of various documents about feature extraction.
 * [Youtube (https://www.youtube.com/watch?v=xib1RSUoeeQ)](https://www.youtube.com/watch?v=xib1RSUoeeQ)
 
 |: Insight :|: Overview :|
-|:------------------:|
+|:----------------------:|
 |<img src="/assets/images/20211005/TEASER_insight.png" width="400" height="250">|<img src="/assets/images/20211005/TEASER_overview.png" width="400" height="250">|
 
 * [Paper (https://arxiv.org/pdf/2001.07715.pdf)](https://arxiv.org/pdf/2001.07715.pdf)  
@@ -85,13 +85,13 @@ It contains a list of various documents about feature extraction.
 * Comparison (TEASER vs MULLS-ICP)
 
 | |: TEASER results :|: MULLS results :|
-|:---------------------------------:|
+|:------------------------------------:|
 |: **overview** :|<img src="/assets/images/20211005/TEASER_result_overview.png" width="400" height="300">|<img src="/assets/images/20211005/MULLS_result_overview.png" width="400" height="300">|
-|:---------------------------------:|
+|:------------------------------------:|
 |: **scene 1** :|<img src="/assets/images/20211005/TEASER_result_1.png" width="250" height="250">|<img src="/assets/images/20211005/MULLS_result_1.png" width="250" height="250">|
-|:---------------------------------:|
+|:------------------------------------:|
 |: **scene 2** :|<img src="/assets/images/20211005/TEASER_result_2.png" width="250" height="250">|<img src="/assets/images/20211005/MULLS_result_2.png" width="250" height="250">|         
-|:---------------------------------:|
+|:------------------------------------:|
 |: **scene 3** :|<img src="/assets/images/20211005/TEASER_result_3.png" width="250" height="250">|<img src="/assets/images/20211005/MULLS_result_3.png" width="250" height="250">|
 
 ### Neighborhood Context Category (NCC)  
