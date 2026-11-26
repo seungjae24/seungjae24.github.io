@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Quadruped Robot Challenge
-description: Autonomous quadruped localization · ICRA 2023 and 2025
-importance: 2
+title: Quadruped Robot Autonomous Navigation and Mission Execution Challenge
+description: DreamCatcher · ICRA 2025 Quadruped Robot Challenge
+role: I led SLAM development and worked on learned features for global localization on Jetson Orin NX.
+importance: 9
 category: research
-img: assets/project-cards/qrc.svg
+img: assets/project-cards/qrc.jpg
 ---
 
-**DreamSTEP · ICRA 2023, first place.** I contributed to map-based LiDAR–inertial localization for autonomous walking and developed a module to detect state divergence for relocalization.
+{{ page.role }}
 
-**DreamCatcher · ICRA 2025, second place.** I led SLAM work, developing robust localization and relocalization with learned features for global localization on Jetson Orin NX.
+![DreamCatcher at QRC 2025]({{ '/assets/project-cards/qrc.jpg' | relative_url }})
 
-[KAIST 2023 report](https://www.kaist.ac.kr/news/html/news/?mng_no=29290&mode=V) · [Roles and project history](https://github.com/seungjae24/seungjae24)
+Our team placed second at ICRA 2025.
+
+[Project history](https://github.com/seungjae24/seungjae24)

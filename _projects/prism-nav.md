@@ -1,12 +1,15 @@
 ---
 layout: page
-title: PRISM-Nav
-description: Robot navigation · RSS 2026 NaviTrace second place
-importance: 5
+title: OpenWorld Robot Navigation
+description: PRISM-Nav · RSS 2026 NaviTrace Challenge
+role: I was a member of Team PRISM-Nav, which placed second in the challenge.
+importance: 12
 category: research
-img: assets/project-cards/prism-nav.svg
+img: assets/project-cards/prism-nav.jpg
 ---
 
-I was a member of Team PRISM-Nav, which placed second at the NaviTrace Challenge at RSS 2026.
+{{ page.role }}
+
+![NaviTrace Challenge]({{ '/assets/project-cards/prism-nav.jpg' | relative_url }})
 
 [KAIST report](https://ee.kaist.ac.kr/en/research-achieve/prof-hyun-myungs-research-team-takes-second-place-in-navitrace-challenge-at-rss-2026/)

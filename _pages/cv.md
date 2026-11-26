@@ -23,7 +23,9 @@ description: Education, experience, and selected awards.
 ## Selected awards
 
 - [COMFORT Localization Challenge, IROS 2026](https://urobot.kaist.ac.kr/announcement/?mod=document&uid=655) · 1st overall, team result.
-- Nothing Stands Still Challenge · 1st overall at [CVPR 2026](https://kaist.ac.kr/news/html/news/?GotoPage=1&mng_no=63351&mode=V) and [ICRA 2025](https://ee.kaist.ac.kr/research-achieve/page/12/), team results.
+- [Nothing Stands Still Challenge, CVPR 2026](https://kaist.ac.kr/news/html/news/?GotoPage=1&mng_no=63351&mode=V) · 1st overall, Team Curaytor.
 - [NaviTrace Challenge, RSS 2026](https://ee.kaist.ac.kr/en/research-achieve/prof-hyun-myungs-research-team-takes-second-place-in-navitrace-challenge-at-rss-2026/) · 2nd, Team PRISM-Nav.
-- Quadruped Robot Challenge · 2nd at [ICRA 2025](https://urobot.kaist.ac.kr/url_teams/prof-hyunmyung/?lang=ko) (DreamCatcher) and 1st at [ICRA 2023](https://www.kaist.ac.kr/news/html/news/?mng_no=29290&mode=V) (DreamSTEP).
+- [Nothing Stands Still Challenge, ICRA 2025](https://www.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47270) · 1st overall, Urban Robotics Lab.
+- [Quadruped Robot Challenge, ICRA 2025]({{ '/projects/qrc/' | relative_url }}) · 2nd, Team DreamCatcher.
+- [Quadruped Robot Challenge, ICRA 2023](https://www.kaist.ac.kr/news/html/news/?mng_no=29290&mode=V) · 1st, Team DreamSTEP.
 - [RiTA 2023 Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/m-s-course-seoyeon-jang-won-the-best-paper-award-in-rita-2023/) · TOSS, coauthor.

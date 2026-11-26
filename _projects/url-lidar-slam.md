@@ -1,9 +1,13 @@
 ---
 layout: page
-title: URL LiDAR SLAM
-description: Technical lead for the Urban Robotics Lab’s in-house LiDAR SLAM stack
-importance: 6
+title: LiDAR SLAM
+description: URL LiDAR SLAM · Ongoing
+role: I lead development of the Urban Robotics Lab’s in-house LiDAR SLAM stack. It uses SE(3)-LIO to estimate motion from LiDAR and IMU data, Chamelion to detect changes between scans, and Multi-Mapcher to align maps from different sessions.
+importance: 0
 category: research
+img: assets/project-cards/url-lidar-slam-kiro.png
 ---
 
-I lead development of the Urban Robotics Lab’s in-house software stack for LiDAR-based simultaneous localization and mapping (SLAM).
+{{ page.role }}
+
+![URL LiDAR SLAM at the KAIST duck pond]({{ '/assets/project-cards/url-lidar-slam.jpg' | relative_url }})
