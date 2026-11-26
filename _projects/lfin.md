@@ -2,7 +2,7 @@
 layout: page
 title: Visual Place Recognition
 description: Lfin · Sep 2021 – Dec 2022
-role: I worked on visual place recognition using image retrieval. By matching a robot’s camera image to reference images from known locations, a localization system can efficiently narrow the search to a few candidate locations.
+role: I used image retrieval to narrow down a robot’s possible locations by matching its camera image against reference images from known locations. I masked dynamic objects to reduce their influence on the visual descriptors used for retrieval.
 importance: 1
 category: research
 img: assets/project-cards/lfin.jpg
@@ -10,4 +10,7 @@ img: assets/project-cards/lfin.jpg
 
 {{ page.role }}
 
-![Place recognition heatmaps before and after processing]({{ '/assets/project-cards/lfin.jpg' | relative_url }})
+<figure>
+  <img src="{{ '/assets/project-cards/lfin.jpg' | relative_url }}" alt="Two Grad-CAM heatmaps of the same street scene, with parked cars in front of a storefront.">
+  <figcaption>I used Grad-CAM to visualize how dynamic objects influenced the retrieval descriptor before masking (left) and after masking (right).</figcaption>
+</figure>
