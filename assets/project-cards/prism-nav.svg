@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 285" role="img" aria-label="PRISM-Nav">
+<rect width="600" height="285" fill="#122134"/>
+<path d="M25 179 L178 49 L282 142 L409 61 L577 162 M25 106 L144 139 L287 55 L421 135 L577 52" stroke="#d1b6ff" opacity=".45" fill="none" stroke-width="2"/>
+<g fill="#d1b6ff"><circle cx="178" cy="49" r="6"/><circle cx="282" cy="142" r="6"/><circle cx="409" cy="61" r="6"/><circle cx="144" cy="139" r="4"/><circle cx="421" cy="135" r="4"/></g>
+<text x="30" y="240" fill="#d1b6ff" font-family="system-ui, sans-serif" font-size="37" font-weight="600">PRISM-Nav</text>
+</svg>
