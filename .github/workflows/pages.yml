@@ -23,6 +23,14 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
       - uses: actions/configure-pages@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image and notebook converters
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          python -m pip install nbconvert
       - run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
